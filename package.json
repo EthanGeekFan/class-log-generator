@@ -1,0 +1,25 @@
+{
+  "name": "class-log-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clg.js",
+  "bin": {
+    "clg": "clg.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cli-progress": "^3.9.0",
+    "commander": "^5.1.0",
+    "inquirer": "^8.0.0",
+    "lodash": "^4.17.21",
+    "nunjucks": "^3.2.3",
+    "ora": "^5.4.0",
+    "shelljs": "^0.8.4"
+  }
+}
